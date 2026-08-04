@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://wheelchairridesnyc.com/</loc><lastmod>2026-07-31</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://wheelchairridesnyc.com/nyc.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://wheelchairridesnyc.com/westchester.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://wheelchairridesnyc.com/new-rochelle.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://wheelchairridesnyc.com/yonkers.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://wheelchairridesnyc.com/long-island.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://wheelchairridesnyc.com/new-jersey.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://wheelchairridesnyc.com/booking.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://wheelchairridesnyc.com/payment.html</loc><lastmod>2026-07-31</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://wheelchairridesnyc.com/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://wheelchairridesnyc.com/images/wheelchair-accessible-van-nyc.jpg</image:loc>
+      <image:title>Wheelchair accessible van with ramp lowered in NYC</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wheelchairridesnyc.com/images/hospital-discharge-wheelchair-transportation.jpg</image:loc>
+      <image:title>Hospital discharge wheelchair transportation</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wheelchairridesnyc.com/images/wheelchair-transportation-medical-appointments-nyc.jpg</image:loc>
+      <image:title>Wheelchair transportation for medical appointments in NYC</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wheelchairridesnyc.com/images/daily-school-wheelchair-transportation-nyc.jpg</image:loc>
+      <image:title>Daily school wheelchair transportation in NYC</image:title>
+    </image:image>
+  </url>
+  <url><loc>https://wheelchairridesnyc.com/nyc.html</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wheelchairridesnyc.com/westchester.html</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wheelchairridesnyc.com/new-rochelle.html</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wheelchairridesnyc.com/yonkers.html</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wheelchairridesnyc.com/long-island.html</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wheelchairridesnyc.com/new-jersey.html</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wheelchairridesnyc.com/booking.html</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wheelchairridesnyc.com/payment.html</loc><lastmod>2026-08-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
 </urlset>
